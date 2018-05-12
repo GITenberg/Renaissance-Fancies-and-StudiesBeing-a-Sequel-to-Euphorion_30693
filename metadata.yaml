@@ -1,0 +1,34 @@
+_repo: Renaissance-Fancies-and-StudiesBeing-a-Sequel-to-Euphorion_30693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+description: ''
+gutenberg_issued: '2009-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art, Italian'
+- !lcsh 'Art, Renaissance -- Italy'
+tableOfContents: The love of the saints -- The imaginative art of the Renaissance
+  -- Tuscan sculpture -- A seeker of pagan perfection, being the life of Domenico
+  Neroni, pictor sacrilegus -- Valedictory.
+title: 'Renaissance Fancies and Studies
+
+  Being a Sequel to Euphorion'
+url: http://www.gutenberg.org/ebooks/30693
